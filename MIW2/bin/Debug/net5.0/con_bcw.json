@@ -1,0 +1,23 @@
+{
+    "nazwa": "bcw",
+    "iloscKolumn": 11,
+    "iloscWierszy": 699,
+    "separator": ",",
+    "klasyDecyzyjne": ["2", "4"],
+    "tablicaMin": ["63375", "1", "1", "1", "1", "1", "1", "1", "1", "1"],
+    "tablicaMax": ["13454352", "10", "10", "10", "10", "10", "10", "10", "10", "10"],
+    "tablicaZnakow": [],
+    "rodzajKolumny": [
+        "liczba",
+        "liczba",
+        "liczba",
+        "liczba",
+        "liczba",
+        "liczba",
+        "liczba",
+        "liczba",
+        "liczba",
+        "liczba",
+        "liczba"
+    ]
+}

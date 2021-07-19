@@ -1,0 +1,29 @@
+{
+    "nazwa": "crx",
+    "iloscKolumn": 16,
+    "iloscWierszy": 690,
+    "separator": ",",
+    "klasyDecyzyjne": ["-", "+"],
+    "tablicaMin": ["znak", "13,75", "0", "znak", "znak", "znak", "znak", "0", "znak", "znak", "0", "znak", "znak", "0", "0"],
+    "tablicaMax": ["znak", "76,75", "28", "znak", "znak", "znak", "znak", "28,5", "znak", "znak", "67", "znak", "znak", "2000", "100000"],
+    "tablicaZnakow": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "aa", "bb", "cc", "dd",
+        "ff", "gg"],
+    "rodzajKolumny": [
+        "znak",
+        "liczba",
+        "liczba",
+        "znak",
+        "znak",
+        "znak",
+        "znak",
+        "liczba",
+        "znak",
+        "znak",
+        "liczba",
+        "znak",
+        "znak",
+        "liczba",
+        "liczba",
+        "znak"
+    ]
+}
